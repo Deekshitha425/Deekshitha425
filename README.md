@@ -30,14 +30,6 @@ Passionate about applying AI to solve real-world problems and creating meaningfu
 - Frontend Development (UI & web applications)
 - Software Development fundamentals
 
-🌱 Currently focusing on:
-
-- Machine Learning & Deep Learning (Python, Scikit-learn, TensorFlow)
-- Data Structures & Algorithms (Problem Solving)
-- Data Analytics using Python, Power BI, and visualization tools
-- Frontend Development using HTML, CSS, JavaScript
-- SQL & Database Design
-
 🎯 Career Goal:
 
 To become an AI/ML Engineer who builds intelligent, data-driven systems, while also being capable of developing user-friendly interfaces and analytical solutions for real-world applications.
@@ -93,14 +85,12 @@ To become an AI/ML Engineer who builds intelligent, data-driven systems, while a
 
 ---
 
-
 ## 🚀 Currently Working On
-
-- 🤖 Machine Learning Projects
-- 📊 Power BI Dashboards
-- 🧩 Data Structures & Algorithms
-- 🗄️ SQL Practice & Analytics
-
+- Machine Learning & Deep Learning (Python, Scikit-learn, TensorFlow)
+- Data Structures & Algorithms (Problem Solving)
+- Data Analytics using Python, Power BI, and visualization tools
+- Frontend Development using HTML, CSS, JavaScript
+- SQL & Database Design
 
 ---
 
