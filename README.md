@@ -8,15 +8,12 @@
 <h1 align="center">Hi 👋, I'm Deekshitha</h1>
 
 <h3 align="center">
-Artificial Intelligence & Machine Learning Student
+AI & ML Engineer (Aspiring) | Frontend Developer | Data Analyst
 </h3>
 
 <p align="center">
-Building projects with Python, SQL, Machine Learning and Data Analytics.
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Python+Developer;Data+Analytics+Enthusiast;Always+Learning+Something+New" />
+I build intelligent systems using Machine Learning and Python, along with interactive web interfaces and data-driven applications.  
+Passionate about applying AI to solve real-world problems and creating meaningful insights from data.
 </p>
 
 ---
@@ -25,65 +22,67 @@ Building projects with Python, SQL, Machine Learning and Data Analytics.
 
 🎓 B.E. Student specializing in Artificial Intelligence & Machine Learning
 
-💡 Passionate about:
+💡 I am primarily focused on AI/ML engineering with supporting interests in:
 
-- Artificial Intelligence
-- Machine Learning
-- Data Analytics
-- Data Science
-- Open Source Development
-  
+- Artificial Intelligence & Machine Learning (Primary focus)
+- Data Structures & Algorithms
+- Data Analytics & Visualization
+- Frontend Development (UI & web applications)
+- Software Development fundamentals
 
 🌱 Currently focusing on:
 
-- Python Development
-- SQL
-- Machine Learning
-- Power BI
-- Data Structures & Algorithms
+- Machine Learning & Deep Learning (Python, Scikit-learn, TensorFlow)
+- Data Structures & Algorithms (Problem Solving)
+- Data Analytics using Python, Power BI, and visualization tools
+- Frontend Development using HTML, CSS, JavaScript
+- SQL & Database Design
 
-🎯 Goal:
+🎯 Career Goal:
 
-
-To leverage AI and data-driven technologies to solve real-world problems while continuously learning and building impactful solutions.
-
----
+To become an AI/ML Engineer who builds intelligent, data-driven systems, while also being capable of developing user-friendly interfaces and analytical solutions for real-world applications.
 
 ## 🛠️ Tech Stack
 
+---
+
 ### 💻 Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,html,css" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css" />
 </p>
 
 ---
 
 ### 🗄️ Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ---
 
 ### 🤖 AI / Machine Learning
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn" />
 </p>
 
 ---
 
 ### 📊 Data Analytics & Visualization
-<p>
-<img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib" />
 </p>
 
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge)
-
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge" />
+</p>
 
 ---
+
+### ⚙️ Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,googlecloud,streamlit" />
+</p>
 
 ### 🧠 Core AI/ML Areas
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
@@ -94,12 +93,6 @@ To leverage AI and data-driven technologies to solve real-world problems while c
 
 ---
 
-### ⚙️ Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,googlecloud,streamlit" />
-</p>
-
-**Also worked with:** Jupyter Notebook • Google Colab • Oracle Cloud Infrastructure (OCI)
 
 ## 🚀 Currently Working On
 
@@ -141,10 +134,7 @@ A personal finance management application that helps users track income, expense
 ## 📈 GitHub Statistics
 
 <p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Deekshitha425&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deekshitha425&layout=compact&theme=radical" />
 </p>
 
 ---
