@@ -51,35 +51,55 @@ To leverage AI and data-driven technologies to solve real-world problems while c
 
 ## 🛠️ Tech Stack
 
-### Programming
-
+### 💻 Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=python,java,html,css" />
 </p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-### Core Areas
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
-
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-6A0DAD?style=for-the-badge)
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge)
-
-![Data Analytics](https://img.shields.io/badge/Data%20Analytics-008080?style=for-the-badge)
 
 ---
+
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+---
+
+### 🤖 AI / Machine Learning
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+---
+
+### 📊 Data Analytics & Visualization
+<p>
+<img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib" />
+</p>
+
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge)
+
+
+
+---
+
+### 🧠 Core AI/ML Areas
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-6A0DAD?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0EA5E9?style=for-the-badge)
+![Natural Language Processing](https://img.shields.io/badge/NLP-10B981?style=for-the-badge)
+![Predictive Analytics](https://img.shields.io/badge/Predictive%20Analytics-2563EB?style=for-the-badge)
+
+---
+
+### ⚙️ Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,googlecloud,streamlit" />
+</p>
+
+**Also worked with:** Jupyter Notebook • Google Colab • Oracle Cloud Infrastructure (OCI)
 
 ## 🚀 Currently Working On
 
@@ -122,22 +142,18 @@ A personal finance management application that helps users track income, expense
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Deekshitha425&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Deekshitha425&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deekshitha425&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
-##GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Deekshitha425&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Deekshitha425&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Deekshitha425&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
