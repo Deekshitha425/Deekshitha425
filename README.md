@@ -1,225 +1,201 @@
-<!-- VISITOR COUNTER -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DeekshithaPamaiahgari&label=Profile%20Views&color=7c3aed&style=for-the-badge&logo=eye" alt="Profile Views" />
-</div>
+<!-- ==================== BANNER ==================== -->
+<p align="center">
+  <img src="banner.png" width="100%" alt="GitHub Banner">
+</p>
 
-<br/>
+<!-- ==================== INTRO ==================== -->
 
-<!-- PROFESSIONAL BANNER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Pamaiahgari%20Deekshitha&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Student%20%7C%20Machine%20Learning%20%7C%20Data%20Analytics&descAlignY=58&descSize=18&descColor=c4b5fd&animation=twinkling" alt="Header Banner" />
-</div>
+<h1 align="center">Hi 👋, I'm Deekshitha</h1>
 
-<br/>
+<h3 align="center">
+Artificial Intelligence & Machine Learning Student
+</h3>
 
----
+<p align="center">
+Building projects with Python, SQL, Machine Learning and Data Analytics.
+</p>
 
-<!-- SECTION A: ANIMATED HEADER -->
-<div align="center">
-
-  <!-- Wave Greeting GIF -->
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px" alt="wave"/>
-  &nbsp;
-  <strong style="font-size:20px;">Hey there! Welcome to my GitHub</strong>
-
-  <br/><br/>
-
-  <!-- Typing SVG -->
-  <a href="https://github.com/DeekshithaPamaiahgari">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=AI+%26+ML+Student+%F0%9F%A4%96;Machine+Learning+Engineer+%F0%9F%A7%A0;Data+Analytics+Enthusiast+%F0%9F%93%8A;Healthcare+AI+Builder+%F0%9F%A5%BC;Full-Stack+Developer+%F0%9F%9A%80;Turning+Data+into+Decisions+%E2%9C%A8" alt="Typing SVG" />
-  </a>
-
-</div>
-
-<br/>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Python+Developer;Data+Analytics+Enthusiast;Always+Learning+Something+New" />
+</p>
 
 ---
 
-<!-- NEURAL NETWORK DIVIDER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%"/>
-</div>
+## 👩‍💻 About Me
 
-<br/>
+🎓 B.E. Student specializing in Artificial Intelligence & Machine Learning
+
+💡 Passionate about:
+
+- Artificial Intelligence
+- Machine Learning
+- Data Analytics
+- Data Science
+- Open Source Development
+  
+
+🌱 Currently focusing on:
+
+- Python Development
+- SQL
+- Machine Learning
+- Power BI
+- Data Structures & Algorithms
+
+🎯 Goal:
+
+
+To leverage AI and data-driven technologies to solve real-world problems while continuously learning and building impactful solutions.
 
 ---
-
-<!-- SECTION B: ABOUT ME -->
-
-## 🧠 About Me
-
-> *"Building intelligent systems that decode real-world complexity — one model at a time."*
-
-I'm an **AI & ML undergraduate** at **Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad** with a CGPA of **9.22/10**, passionate about developing data-driven solutions that make a meaningful difference.
-
-- 🤖 &nbsp;Specializing in **Machine Learning, Deep Learning, and Healthcare AI** — I build predictive systems using clinical data, NLP, and computer vision pipelines
-- 📊 &nbsp;Experienced in **Data Analytics & Visualization** — from raw data preprocessing to interactive Power BI dashboards and Streamlit applications with explainable AI
-- 🌐 &nbsp;Full-stack capable — built secure, scalable **MERN stack** applications integrated with REST APIs, JWT auth, and real-time analytics modules
-- ☁️ &nbsp;**Oracle Cloud Infrastructure Certified AI Foundations Associate** (Valid until May 2028) with hands-on experience in cloud-native deployments
-
-<br/>
-
----
-
-<!-- SECTION C: TECH STACK -->
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white" />
+### Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-### ⚙️ Backend & Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### 🤖 Machine Learning & AI
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/BERT-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-### 📊 Data & Analytics
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+### Core Areas
 
-### ☁️ Cloud, Tools & Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-</p>
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
 
-<br/>
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-6A0DAD?style=for-the-badge)
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge)
+
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-008080?style=for-the-badge)
 
 ---
 
-<!-- SECTION D: LINKS -->
+## 🚀 Currently Working On
 
-## 🔗 Find Me Online
+- 🤖 Machine Learning Projects
+- 📊 Power BI Dashboards
+- 🧩 Data Structures & Algorithms
+- 🗄️ SQL Practice & Analytics
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/deekshitha-pamaiahgari-1820982b5" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/DeekshithaPamaiahgari/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  &nbsp;
-  <a href="mailto:deekshithapamaiahgari@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+
+---
+
+## 📌 Featured Projects
+
+### 🧠 Mental Health Chatbot
+
+AI-powered chatbot designed to detect emotions from user input and provide supportive responses. Integrates emotion analysis and depression prediction techniques to promote mental well-being.
+
+---
+
+### 🌸 PCOS Detection System
+
+Machine Learning-based healthcare application that predicts the likelihood of Polycystic Ovary Syndrome (PCOS) using medical and lifestyle parameters, enabling early awareness and risk assessment.
+
+---
+
+### 🍎 Fruit Quality Detection System
+
+Computer Vision project that analyzes fruit images to identify quality, freshness, and defects. Built using image processing and machine learning techniques for automated quality assessment.
+
+---
+
+### 💰 Expense Tracker
+
+A personal finance management application that helps users track income, expenses, spending patterns, and budgeting goals through an intuitive interface and data visualization.
+
+---
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Deekshitha425&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deekshitha425&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
-<br/>
+---
+##GitHub Trophies
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Deekshitha425&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Deekshitha425&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-<!-- SECTION E: GITHUB STATS -->
+## 📊 Contribution Graph
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=DeekshithaPamaiahgari&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d0d1a&title_color=a855f7&icon_color=7c3aed&text_color=c4b5fd" alt="GitHub Stats" height="180"/>
-  &nbsp;&nbsp;
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeekshithaPamaiahgari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a855f7&text_color=c4b5fd&langs_count=8" alt="Top Languages" height="180"/>
-
-  <br/><br/>
-
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeekshithaPamaiahgari&theme=tokyonight&hide_border=true&background=0d0d1a&stroke=7c3aed&ring=a855f7&fire=c084fc&currStreakLabel=a855f7&sideLabels=c4b5fd&dates=8b5cf6" alt="GitHub Streak" />
-
-</div>
-
-<br/>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deekshitha425&theme=tokyo-night"/>
+</p>
 
 ---
 
-<!-- SECTION F: GITHUB TROPHIES -->
+## 🎯 2026 Goals
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DeekshithaPamaiahgari&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
-</div>
-
-<br/>
+- Build stronger Machine Learning projects
+- Improve DSA problem-solving skills
+- Contribute to Open Source projects
+- Develop end-to-end AI applications
+- Gain industry experience through internships
 
 ---
 
-<!-- NEURAL ACTIVITY GRAPH -->
 
-## 🌐 Contribution Graph
+## 💭 Philosophy
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeekshithaPamaiahgari&theme=react-dark&bg_color=0d0d1a&color=a855f7&line=7c3aed&point=c084fc&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
+> Continuous learning, consistent effort, and real-world projects create meaningful growth.
 
-<br/>
+---
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Deekshitha425" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/deekshitha-pamaiahgari-1820982b5" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:deekshithapamaiahgari@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/DeekshithaPamaiahgari/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</p>
 
 ---
 
-<!-- SECTION G + H: FOOTER & CONNECT -->
+<p align="center">
 
-## 🤝 Let's Connect
+✨ Learning • Building • Improving ✨
 
-<div align="center">
+</p>
 
-  <p>
-    <em>I'm always open to interesting collaborations, internship opportunities, and conversations around AI, data, and building things that matter.</em>
-  </p>
-
-  <br/>
-
-  <a href="https://www.linkedin.com/in/deekshitha-pamaiahgari-1820982b5" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:deekshithapamaiahgari@gmail.com">
-    <img src="https://img.shields.io/badge/Send%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/DeekshithaPamaiahgari/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-
-  <br/><br/>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&text=Building%20intelligence%2C%20one%20commit%20at%20a%20time%20%E2%9C%A8&fontSize=16&fontColor=c4b5fd&fontAlignY=65" alt="Footer" />
-
-</div>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Deekshitha425&label=Profile%20Views&color=blueviolet&style=flat"/>
+</p>
