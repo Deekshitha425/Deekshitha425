@@ -121,15 +121,6 @@ A personal finance management application that helps users track income, expense
 ---
 ---
 
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deekshitha425&layout=compact&theme=radical" />
-</p>
-
----
-
-
 ## 🔥 GitHub Streak
 
 <p align="center">
